@@ -14,7 +14,7 @@ function App() {
   <div><h1>Outdoor Experiences in Illinois</h1></div>
 <Carousel>
 <div>
-<img className="bg bg-danger" src="https://2ae1l5190lpna5muo2laxyu2-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/4699998569001_5647650740001_5647617356001-vs-300x169.jpg" alt="Pomona Natural Bridge" />
+<img src="https://2ae1l5190lpna5muo2laxyu2-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/4699998569001_5647650740001_5647617356001-vs-300x169.jpg" alt="Pomona Natural Bridge" />
 <p className="legend">Pomona Natural Bridge</p>
 </div>
 <div>
